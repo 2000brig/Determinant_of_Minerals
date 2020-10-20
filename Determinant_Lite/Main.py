@@ -22,7 +22,7 @@ print(about)
 input('Push ENTER, Please!')
 print('\n This program is a small part (some trial part) of big Determinant of Minerals Project!')
 print('\n The application is accompanied by a CSV-File with some minerals (Table.csv)')
-print('\n You can attach your own minerals database (To do this, follow the document: ***)')
+print('\n You can attach your own minerals database (To do this, follow the README.md)')
 print('\n Now relax and try using the program ;)')
 print('\n Welcome to  Multi-Classifier!')
 
